@@ -1,3 +1,16 @@
+/*Customize part by WenLin*/
+function toggleAndShow(divID) {
+	console.log(divID);
+    var x = document.getElementById(divID);
+    console.log("Test answer");
+    console.log(x);
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+
 /*global jQuery:false */
 (function ($) {
 

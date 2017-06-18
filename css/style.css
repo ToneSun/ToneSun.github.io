@@ -1052,6 +1052,15 @@ a.btn:focus{
 	.service-box {
 		margin-bottom: 50px;
 	}
+
+/* Customize by Wen Lin */
+	.list-inline > li {
+		display: inline;
+	}
+
+	.row > .my-story {
+		margin-top: 70px;
+	}
 	
 	.team-wrap {
 		margin-bottom: 30px;

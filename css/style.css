@@ -1058,8 +1058,10 @@ a.btn:focus{
 		display: inline;
 	}
 
-	.row > .my-story {
-		margin-top: 70px;
+	.my-story {
+		margin-top: 75px;
+		margin-left: 15px;
+		margin-right: 15px;
 	}
 	
 	.team-wrap {

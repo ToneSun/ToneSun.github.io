@@ -1063,6 +1063,13 @@ a.btn:focus{
 		margin-left: 15px;
 		margin-right: 15px;
 	}
+
+	.fa {
+		color: #1bbca3;
+	}
+
+
+/* End customize */
 	
 	.team-wrap {
 		margin-bottom: 30px;
